@@ -41,3 +41,11 @@ async function getWeather(latitude, longitude) {
 // "generationtime_ms":0.08010864}
 
 {"latitude":43.67227,"longitude":-79.75425,"generationtime_ms":0.760197639465332,"utc_offset_seconds":-14400,"timezone":"America/Toronto","timezone_abbreviation":"GMT-4","elevation":222.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C","relative_humidity_2m":"%","weather_code":"wmo code"},"current":{"time":"2026-10-22T19:45","interval":900,"temperature_2m":12.5,"relative_humidity_2m":77,"weather_code":0}}
+
+
+
+
+
+
+
+
